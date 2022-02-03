@@ -1,0 +1,2 @@
+2022-02-03 10:19:02 - PHP Unknown:  The "ScssPhp\ScssPhp\Compiler::compile" method is deprecated. Use "compileString" instead. in C:\xampp\htdocs\oc38\system\storage\vendor\scssphp\scssphp\src\Compiler.php on line 425
+2022-02-03 10:19:07 - PHP Unknown:  The "ScssPhp\ScssPhp\Compiler::compile" method is deprecated. Use "compileString" instead. in C:\xampp\htdocs\oc38\system\storage\vendor\scssphp\scssphp\src\Compiler.php on line 425
